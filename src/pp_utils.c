@@ -6,12 +6,11 @@
 /*   By: mathisaujogue <mathisaujogue@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/15 17:07:18 by maujogue          #+#    #+#             */
-/*   Updated: 2023/02/28 15:36:13 by mathisaujog      ###   ########.fr       */
+/*   Updated: 2023/02/28 15:37:42 by mathisaujog      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../header/pipex.h"
-
 
 char	*get_path_envp(char **envp)
 {
